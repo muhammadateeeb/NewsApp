@@ -1,4 +1,9 @@
 # NewsApp
+
+#output
+![Screenshot 2024-03-13 020517](https://github.com/muhammadateeeb/NewsApp/assets/140931945/ca410595-ddea-4330-a355-41cfcc2f07c7)
+
+
 Main Page Features:
 
 Display a curated list of news articles from various sources using the chosen third-party public API.
